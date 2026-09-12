@@ -212,9 +212,13 @@ Strengthening my foundation in Data Structures, OOP, Operating Systems, and othe
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Amber821200&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Amber821200&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&icon_color=64FFDA&text_color=c9d1d9" width="48%" />
 
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amber821200&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Amber821200&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=64FFDA&text_color=c9d1d9" width="48%" />
+
+<br><br>
+
+<img src="https://streak-stats.demolab.com?user=Amber821200&theme=dark&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA" width="70%" />
 
 </div>
 
