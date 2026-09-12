@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=AMBER%20ALI%20SAIYED&fontSize=42&fontColor=64FFDA&fontAlignY=45&desc=Python%20%7C%20Computer%20Science%20%7C%20Data%20%26%20Machine%20Learning&descSize=18&descColor=c9d1d9&descAlignY=68" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=AMBER%20ALI%20SAIYED&fontSize=44&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Computer%20Science%20%7C%20Data%20%26%20Machine%20Learning&descAlignY=58&descSize=18" width="100%"/>
 
 <br>
 
@@ -108,33 +108,25 @@ At the moment, I'm putting more of my focus into **Python, Data Science, SQL, an
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 🐍 100 Days of Python
 
-A growing collection of projects I'm building while following **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
+`Python` · `100 Days of Code` · `Project-Based Learning`
 
-The repository documents my progress as I work through Python fundamentals and gradually move toward more advanced concepts and practical applications.
+A collection of Python projects I'm building while working through **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
+
+Each day focuses on building a small project while gradually introducing new programming concepts, from Python fundamentals and automation to data handling, APIs, web development, and eventually more advanced topics.
+
+The repository serves as a **progress log of my Python learning journey**, with each project kept in its own folder along the way.
 
 **Current Progress:** Day 1 / 100
 
-🔗 [View Repository](https://github.com/Amber821200/PYTHON_PROGRESS)
+🔗 [View Repository →](https://github.com/Amber821200/100-DAYS-OF-PYTHON)
 
 ---
 
-### 🎸 Band Name Generator
-
-`Python` · `User Input` · `Strings`
-
-A simple Python program that generates a potential band name using the user's city and pet name.
-
-This was my first project in the 100 Days of Python challenge and introduced me to basic user input, variables, and string manipulation.
-
-🔗 [View Project](https://github.com/Amber821200/PYTHON_PROGRESS/tree/main/1.Band%20Name%20Generator)
-
----
-
-> 🚧 More projects will be added here as I continue learning and building.
+> 🚧 This section will grow as I add more projects throughout the challenge.
 
 <br/>
 
