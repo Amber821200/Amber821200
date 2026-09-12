@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=650&lines=Building.+Breaking.+Learning.+Repeating.;Turning+curiosity+into+code.;Exploring+data%2C+systems+%26+machine+learning.;Learning+one+project+at+a+time." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=650&lines=Building.+Experimenting.+Learning.+Repeating.;Turning+curiosity+into+code.;Exploring+data%2C+systems+%26+machine+learning.;Learning+one+project+at+a+time." alt="Typing SVG"/>
 
 <br><br>
 
