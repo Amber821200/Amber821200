@@ -212,15 +212,9 @@ Strengthening my foundation in Data Structures, OOP, Operating Systems, and othe
 
 <div align="center">
 
-### 🐍 100 Days of Python
+<img src="./profile/stats.svg" width="49%" />
 
-**Building consistently. Learning one project at a time.**
-
-<br>
-
-![Python](https://img.shields.io/badge/Python-Projects-64FFDA?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
-![Projects](https://img.shields.io/badge/Projects-In%20Progress-64FFDA?style=for-the-badge&labelColor=0d1117)
-![GitHub](https://img.shields.io/badge/GitHub-Learning%20in%20Public-64FFDA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
+<img src="./profile/top-langs.svg" width="49%" />
 
 </div>
 <br/>
