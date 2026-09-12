@@ -129,7 +129,8 @@ Currently, I'm focusing on **Python, SQL, Data Science, and Machine Learning** t
 
 ### Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
+<img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 
 ### Tools & Deployment
 
