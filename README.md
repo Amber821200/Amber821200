@@ -25,7 +25,7 @@
 
 <td align="center" width="25%">
 📊<br>
-<b>Data & ML</b><br>
+<b>Data Science & ML</b><br>
 <sub>NumPy • Pandas • Scikit-learn</sub>
 </td>
 
