@@ -224,14 +224,6 @@ Strengthening my foundation in Data Structures, OOP, Operating Systems, and othe
 
 <br/>
 
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=Amber821200&theme=dark&hide_border=true&background=0D1117&ring=64FFDA&fire=64FFDA&currStreakLabel=64FFDA"/>
-
-</div>
-
-<br/>
-
 ---
 
 ## 📈 My Approach
