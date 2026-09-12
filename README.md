@@ -129,11 +129,11 @@ Currently, I'm focusing on **Python, SQL, Data Science, and Machine Learning** t
 
 ### Databases & Backend
 
-<img src="https://skillicons.dev/icons?i=mysql,mongodb&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,oracle&theme=dark"/>
 
 ### Tools & Deployment
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,postman&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
 
 </div>
 
