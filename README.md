@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=AMBER%20ALI%20SAIYED&fontSize=42&fontColor=64FFDA&fontAlignY=45&desc=Python%20%E2%80%A2%20SQL%20%E2%80%A2%20Data%20Science%20%E2%80%A2%20Machine%20Learning&descSize=18&descColor=c9d1d9&descAlignY=65" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=180&section=header&text=AMBER%20ALI%20SAIYED&fontSize=42&fontColor=64FFDA&fontAlignY=45&desc=Building%20%E2%80%A2%20Experimenting%20%E2%80%A2%20Learning&descSize=18&descColor=c9d1d9&descAlignY=65" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=650&lines=Building.+Experimenting.+Learning.+Repeating.;Turning+curiosity+into+code.;Exploring+data%2C+systems+%26+machine+learning.;Learning+one+project+at+a+time." alt="Typing SVG"/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=700&lines=Turning+ideas+into+code.;Exploring+data+%26+machine+learning.;Strengthening+my+CS+fundamentals.;Learning+by+building." alt="Typing SVG"/>
 
 <br><br>
 
@@ -12,20 +12,20 @@
 <tr>
 <td align="center" width="25%">
 💻<br>
-<b>Python</b><br>
-<sub>Building with it</sub>
+<b>Programming</b><br>
+<sub>Python • C • C++ • Java</sub>
 </td>
 
 <td align="center" width="25%">
 🧠<br>
 <b>Computer Science</b><br>
-<sub>Strengthening the basics</sub>
+<sub>DSA • OOP • DBMS • OS</sub>
 </td>
 
 <td align="center" width="25%">
 📊<br>
 <b>Data & ML</b><br>
-<sub>Exploring the possibilities</sub>
+<sub>NumPy • Pandas • Scikit-learn</sub>
 </td>
 
 <td align="center" width="25%">
@@ -62,39 +62,30 @@
 
 ## 👋 About Me
 
-I'm **Amber**, a student currently building my foundation across **programming, computer science, data, and machine learning**.
+I'm **Amber**, a student building my foundation across **programming, computer science, data, and machine learning**.
 
-I've worked with **Python, C, C++, Java, and SQL**, while developing my understanding of core CS concepts such as **Data Structures, Object-Oriented Programming, DBMS, and Operating Systems**.
+I'm familiar with **Python, C, C++, Java, and SQL**, while strengthening my understanding of **Data Structures, OOP, DBMS, and Operating Systems**.
 
-At the moment, I'm putting more of my focus into **Python, Data Science, SQL, and Machine Learning**, using projects and experimentation to turn what I learn into practical skills.
+Currently, I'm focusing on **Python, SQL, Data Science, and Machine Learning** through hands-on projects and experimentation.
 
-- 🐍 Working through a **100 Days of Python** project-based course
-- 🗄️ Strengthening my understanding of **SQL and DBMS**
-- 🤖 Exploring **Machine Learning** and Data Science
-- 💻 Building a stronger programming foundation with **Python, C, C++, and Java**
-- 🧠 Learning core concepts such as **Data Structures, OOP, and Operating Systems**
-- 📈 Using GitHub to document my progress and projects
+---
 
-<br/>
-
-## 🧠 Areas I'm Exploring
+## 🧠 What I'm Working With
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Programming & Computer Science
+### 💻 Programming & CS
 
 - Python
-- C
-- C++
+- C / C++
 - Java
-- Data Structures
+- Data Structures & Algorithms
 - Object-Oriented Programming
-- Problem Solving
-- DBMS
-- SQL
+- DBMS & SQL
 - Operating Systems
+- Problem Solving
 
 </td>
 
@@ -115,7 +106,7 @@ At the moment, I'm putting more of my focus into **Python, Data Science, SQL, an
 </tr>
 </table>
 
-<br/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -123,26 +114,20 @@ At the moment, I'm putting more of my focus into **Python, Data Science, SQL, an
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=py,java,c,cpp&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=py,c,cpp,java&theme=dark"/>
 
-### Data Science & Machine Learning
+### Data & Machine Learning
 
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
-### Database
+### Database & Tools
 
-<img src="https://skillicons.dev/icons?i=mysql&theme=dark"/>
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode&theme=dark"/>
+<img src="https://skillicons.dev/icons?i=mysql,git,github,vscode&theme=dark"/>
 
 </div>
-
-<br/>
 
 ---
 
@@ -150,57 +135,25 @@ At the moment, I'm putting more of my focus into **Python, Data Science, SQL, an
 
 ### 🐍 100 Days of Python
 
-`Python` · `100 Days of Code` · `Project-Based Learning`
+`Python` `Automation` `Data` `APIs` `Project-Based Learning`
 
-A collection of Python projects I'm building while working through **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
+A collection of projects built while working through **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
 
-Each day focuses on building a small project while gradually introducing new programming concepts, from Python fundamentals and automation to data handling, APIs, web development, and eventually more advanced topics.
+The repository documents my progress from Python fundamentals toward more practical applications.
 
-The repository serves as a **progress log of my Python learning journey**, with each project kept in its own folder along the way.
-
-**Current Progress:** Day 1 / 100
-
-🔗 [View Repository →](https://github.com/Amber821200/100-DAYS-OF-PYTHON)
+🔗 **[View Repository →](https://github.com/Amber821200/100-DAYS-OF-PYTHON)**
 
 ---
 
-> 🚧 This section will grow as I add more projects throughout the challenge.
+## 🔨 Currently Building
 
-<br/>
-
-## 📚 Learning Journey
-
-I'm using this profile to keep track of the things I'm learning and the projects I build along the way.
-
-### Current Focus
-
-**🐍 Python**  
-Building stronger fundamentals through consistent practice and hands-on projects.
-
-**🗄️ SQL & Databases**  
-Improving my understanding of SQL, relational databases, and DBMS concepts.
-
-**🤖 Machine Learning**  
-Learning the fundamentals of Machine Learning and building toward practical applications with real datasets.
-
-**💻 Computer Science**  
-Strengthening my foundation in Data Structures, OOP, Operating Systems, and other core CS concepts.
-
-<br/>
+- 🐍 **Python** — building consistently through project-based practice
+- 🗄️ **SQL & DBMS** — strengthening database fundamentals
+- 📊 **Data Science** — working with NumPy, Pandas and visualization
+- 🤖 **Machine Learning** — learning fundamentals and applying them to datasets
+- 💻 **Core CS** — continuing to strengthen DSA, OOP and Operating Systems
 
 ---
-
-## 🎯 Goals
-
-- 🐍 Complete the **100 Days of Python** challenge
-- 🗄️ Become comfortable working with **SQL and databases**
-- 📊 Improve my **data analysis** skills
-- 🤖 Build a solid foundation in **Machine Learning**
-- 💻 Strengthen my **core computer science fundamentals**
-- 🚀 Build projects that demonstrate what I learn
-- 📈 Become a better programmer and problem solver
-
-<br/>
 
 ## 📊 GitHub Analytics
 
@@ -211,9 +164,11 @@ Strengthening my foundation in Data Structures, OOP, Operating Systems, and othe
 <img src="./profile/top-langs.svg" width="49%" />
 
 </div>
+
 <br/>
 
 ---
+
 ## 🐍 Contribution Activity
 
 <div align="center">
@@ -226,39 +181,23 @@ Strengthening my foundation in Data Structures, OOP, Operating Systems, and othe
 
 ---
 
-## 📈 My Approach
-
 <div align="center">
 
 ### **Learn → Build → Experiment → Break → Fix → Repeat**
 
-</div>
+*This profile is a work in progress — just like my skills.*
 
-I'm trying to learn by actually building things, experimenting with ideas, and figuring out how to solve problems along the way.
-
-This profile is a work in progress — just like my skills.
-
-<br/>
-
----
-
-## 📫 Connect With Me
-
-<div align="center">
+<br>
 
 <a href="https://github.com/Amber821200">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <a href="https://www.linkedin.com/in/amber-ali-saiyed-b30745432/">
-<img src="https://img.shields.io/badge/LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=black"/>
 </a>
 
-</div>
-
-<br/>
-
-<div align="center">
+<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
