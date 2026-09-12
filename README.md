@@ -10,6 +10,7 @@
 
 <table>
 <tr>
+
 <td align="center" width="25%">
 💻<br>
 <b>Programming</b><br>
@@ -33,6 +34,7 @@
 <b>Projects</b><br>
 <sub>Learning by building</sub>
 </td>
+
 </tr>
 </table>
 
@@ -70,10 +72,11 @@ Currently, I'm focusing on **Python, SQL, Data Science, and Machine Learning** t
 
 ---
 
-## 🧠 What I'm Working With
+## 🧠 What I'm Exploring
 
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
 ### 💻 Programming & CS
@@ -103,6 +106,7 @@ Currently, I'm focusing on **Python, SQL, Data Science, and Machine Learning** t
 - Working with datasets
 
 </td>
+
 </tr>
 </table>
 
@@ -137,21 +141,11 @@ Currently, I'm focusing on **Python, SQL, Data Science, and Machine Learning** t
 
 `Python` `Automation` `Data` `APIs` `Project-Based Learning`
 
-A collection of projects built while working through **100 Days of Code: The Complete Python Pro Bootcamp** by Dr. Angela Yu.
+A collection of projects built while working through **100 Days of Code: The Complete Python Pro Bootcamp** by **Dr. Angela Yu**.
 
 The repository documents my progress from Python fundamentals toward more practical applications.
 
 🔗 **[View Repository →](https://github.com/Amber821200/100-DAYS-OF-PYTHON)**
-
----
-
-## 🔨 Currently Building
-
-- 🐍 **Python** — building consistently through project-based practice
-- 🗄️ **SQL & DBMS** — strengthening database fundamentals
-- 📊 **Data Science** — working with NumPy, Pandas and visualization
-- 🤖 **Machine Learning** — learning fundamentals and applying them to datasets
-- 💻 **Core CS** — continuing to strengthen DSA, OOP and Operating Systems
 
 ---
 
@@ -188,16 +182,6 @@ The repository documents my progress from Python fundamentals toward more practi
 *This profile is a work in progress — just like my skills.*
 
 <br>
-
-<a href="https://github.com/Amber821200">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amber-ali-saiyed-b30745432/">
-<img src="https://img.shields.io/badge/LinkedIn-64FFDA?style=for-the-badge&logo=linkedin&logoColor=black"/>
-</a>
-
-<br><br>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer" width="100%"/>
 
