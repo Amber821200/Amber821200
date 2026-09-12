@@ -212,7 +212,15 @@ Strengthening my foundation in Data Structures, OOP, Operating Systems, and othe
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amber821200&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ffffff&area=true&hide_border=true" width="100%" />
+### 🐍 100 Days of Python
+
+**Building consistently. Learning one project at a time.**
+
+<br>
+
+![Python](https://img.shields.io/badge/Python-Projects-64FFDA?style=for-the-badge&logo=python&logoColor=white&labelColor=0d1117)
+![Projects](https://img.shields.io/badge/Projects-In%20Progress-64FFDA?style=for-the-badge&labelColor=0d1117)
+![GitHub](https://img.shields.io/badge/GitHub-Learning%20in%20Public-64FFDA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)
 
 </div>
 <br/>
