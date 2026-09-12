@@ -1,20 +1,64 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=AMBER%20ALI%20SAIYED&fontSize=44&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=Python%20%7C%20Computer%20Science%20%7C%20Data%20%26%20Machine%20Learning&descAlignY=58&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:16343d,100:2c5364&height=230&section=header&text=AMBER%20ALI%20SAIYED&fontSize=46&fontColor=64FFDA&animation=fadeIn&fontAlignY=38&desc=Student%20%7C%20Developer%20%7C%20Always%20Learning&descSize=18&descColor=c9d1d9&descAlignY=58" width="100%"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=20&duration=2800&pause=900&color=64FFDA&center=true&vCenter=true&width=700&lines=Learning+by+building.;Turning+ideas+into+code.;Exploring+Python%2C+SQL+%26+Machine+Learning.;Strengthening+my+CS+fundamentals.;One+project+at+a+time." alt="Typing SVG"/>
+<h3>💻 Building. Breaking. Learning. Repeating.</h3>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=19&duration=2600&pause=900&color=64FFDA&center=true&vCenter=true&width=720&lines=%3E+python+%3E+build();%3E+sql+%3E+query();%3E+ml+%3E+learn();%3E+git+%3E+commit();%3E+repeat();" alt="Typing SVG"/>
 
 <br><br>
 
+<table>
+<tr>
+<td align="center">
+
+🐍<br>
+<b>Python</b><br>
+<sub>Building with it</sub>
+
+</td>
+
+<td align="center">
+
+🧠<br>
+<b>Computer Science</b><br>
+<sub>Strengthening the basics</sub>
+
+</td>
+
+<td align="center">
+
+📊<br>
+<b>Data & ML</b><br>
+<sub>Exploring the possibilities</sub>
+
+</td>
+
+<td align="center">
+
+🚀<br>
+<b>Projects</b><br>
+<sub>Learning by building</sub>
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <a href="https://github.com/Amber821200">
-<img src="https://img.shields.io/badge/GitHub-Amber821200-64FFDA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
+<img src="https://img.shields.io/badge/GitHub-@Amber821200-64FFDA?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117"/>
 </a>
 
 <a href="https://www.linkedin.com/in/amber-ali-saiyed-b30745432/">
 <img src="https://img.shields.io/badge/LinkedIn-Amber%20Ali%20Saiyed-64FFDA?style=for-the-badge&logo=linkedin&logoColor=black&labelColor=0d1117"/>
 </a>
+
+<br><br>
+
+<sub>📍 Chennai, India &nbsp; • &nbsp; Learning in public, one project at a time</sub>
 
 </div>
 
