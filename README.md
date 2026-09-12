@@ -52,7 +52,7 @@
 
 <br><br>
 
-📍 Chennai, India &nbsp;•&nbsp; Learning in public, one project at a time
+📍 Chennai, Tamil Nadu, India &nbsp;•&nbsp; One project at a time
 
 </div>
 
