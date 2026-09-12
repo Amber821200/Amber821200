@@ -214,6 +214,22 @@ Strengthening my foundation in Data Structures, OOP, Operating Systems, and othe
 <br/>
 
 ---
+## 📈 Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Amber821200&bg_color=0d1117&color=64FFDA&line=64FFDA&point=ffffff&area=true&hide_border=true" width="100%"/>
+
+</div>
+<br>
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Amber821200/Amber821200/output/snake.svg" width="100%" alt="Contribution Snake"/>
+
+</div>
+
+---
 
 ## 📈 My Approach
 
