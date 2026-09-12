@@ -20,7 +20,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=Amber821200&show_icons=true&include_all_commits=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&ring_color=64FFDA
+          options: username=Amber821200&show_icons=true&include_all_commits=true&hide_rank=true&hide_border=true&bg_color=0D1117&title_color=64FFDA&icon_color=64FFDA&text_color=C9D1D9&ring_color=64FFDA
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
