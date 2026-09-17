@@ -127,9 +127,9 @@ Currently, I'm focusing on **Python, SQL, Data Science, and Machine Learning** t
 <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white"/>
 
-### Data Visualization / BI
+### Data Visualization 
 
-<img src="https://skillicons.dev/icons?i=powerbi&theme=dark"/>
+<img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
 
 ### Databases & Backend
 
